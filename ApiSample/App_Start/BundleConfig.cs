@@ -5,8 +5,7 @@ namespace ApiSample
 {
     public class BundleConfig
     {
-        //demo
-        //Ddmo 2
+        
         // For more information on bundling, visit https://go.microsoft.com/fwlink/?LinkId=301862
         public static void RegisterBundles(BundleCollection bundles)
         {
